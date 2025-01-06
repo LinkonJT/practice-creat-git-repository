@@ -1,0 +1,13 @@
+div{
+    background-color: greenyellow;
+    margin: 10px;
+    padding: 15px;
+    border: 4px solid black;
+    border-radius: 10px;
+}
+
+h1{
+    color: brown;
+    font-size: 50px;
+    background-color: yellow;
+}
